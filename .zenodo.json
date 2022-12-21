@@ -1,0 +1,45 @@
+{
+    "creators":[
+        {
+            "orcid":"0000-0003-1516-5337",
+            "affiliation":"Embry-Riddle Aeronautical University, Daytona Beach, FL",
+            "name":"Riousset, Jeremy A"
+        }
+    ],
+    "license":"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
+    "title":"A generalized Townsend's theory for Paschen curves in planar, cylindrical, and spherical geometries in the context of planetary atmospheres",
+    "related_identifiers":[
+        {
+            "scheme":"doi",
+            "identifier":"10.48550/arXiv.2212.06147",
+            "relation":"isDocumentedBy",
+            "resource_type":"publication-article"
+        }
+    ],
+    "keywords":[
+        "Townsend",
+        "Paschen",
+        "Titan",
+        "Mars",
+        "Venus",
+        "Earth",
+        "atmospheric electricity",
+        "discharge",
+        "breakdown",
+        "corona",
+        "glow"
+    ],
+    "communities":[
+        {
+            "identifier":"Space Physics and Aeronomy"
+        },
+        {
+            "identifier":"Thunderstorms, lightning and climate: an exciting relationship from the troposphere to the upper atmosphere"
+        }
+    ],
+    "grants":[
+        {
+            "id":"NSF 2047863"
+        }
+    ]
+}
