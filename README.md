@@ -8,4 +8,4 @@
 - AuthorYYYY_orig.mat is the file that contains the raw, unsorted, extracted experimental data.
 - AuthorYYYY.m or AuthorYYYY.mlx are the files that was used to sort the experimental data.
 * macOS/linux users should use bolsigminus in alpha_eff.m.
-* Windows users should use bolsigminus in alpha_eff.m.
+* Windows users should use bolsigminus.exe in alpha_eff.m.
